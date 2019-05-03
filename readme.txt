@@ -13,6 +13,10 @@ Donate link: https://www.aliluv.cn/liuyan
 
 网易云音乐播放器（详情看截图）
 
+https://v1.hitokoto.cn/nm/playlist/  
+https://v1.hitokoto.cn/nm/summary/   
+此俩接口数据来自 Github项目！地址：https://github.com/a632079/teng-koa/blob/master/netease.md
+
 == Installation ==
 
 1. 上传 `nines-music`目录 到 `/wp-content/plugins/` 目录或后台搜索Nines Music
